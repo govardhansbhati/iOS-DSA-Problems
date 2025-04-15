@@ -1,5 +1,14 @@
 import Foundation
 
+/*
+ ### 🧠 Bridge and Torch Problem
+ - **Type**: Greedy Algorithm
+ - **Difficulty**: Medium
+ - **Problem**: Given crossing times for multiple people and a constraint (only two can cross at a time with one torch), find the minimum total time required to get everyone across.
+ - **Key Concepts**: Greedy choice, optimization under constraints, simulation
+
+ */
+
 // MARK: - Model
 
 /// Represents a person with a name and the time they take to cross the bridge.
